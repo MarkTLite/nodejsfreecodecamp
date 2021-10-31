@@ -3,6 +3,7 @@
 	"author": "MarkTLite", 
 	"description": "A small practice project for NodeJs. Will deploy to Heroku and use CI/CD", 
 	"keywords": ["freecodecamp","nodejs","heroku"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
