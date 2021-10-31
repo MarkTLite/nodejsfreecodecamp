@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "MarkTLite", 
+	"description": "A small practice project for NodeJs. Will deploy to Heroku and use CI/CD", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
