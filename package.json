@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "MarkTLite", 
 	"description": "A small practice project for NodeJs. Will deploy to Heroku and use CI/CD", 
-	"keywords": ["freecodecamp","nodejs app","heroku"],
+	"keywords": ["freecodecamp","nodejs","heroku"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
